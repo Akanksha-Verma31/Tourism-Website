@@ -1,4 +1,4 @@
-# <a href="">Tourism Website with QnA Bot</a>
+# <a href="https://gray-sea-00e825d10.1.azurestaticapps.net/">Tourism Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/akanksha-verma31/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
-This is a 5 Page Tourism Front End website design
+This is a 4 Page Tourism Front End website design
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
@@ -46,7 +46,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : </b>
+<b>Project Link :https://gray-sea-00e825d10.1.azurestaticapps.net/ </b>
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/Akanksha-Verma31/Tourism-Website/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
  # SCREENSHOTS
